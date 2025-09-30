@@ -95,13 +95,13 @@
 	<td>option group (optgroup) </td>
 	<td>
 	<select>
-	<optgroup lable="hot drinks">
+	<optgroup label="hot drinks">
 		<option value="masala">masala tea</option>
 		<option value="chocolate">chocolate tea</option>
 		<option value="green">green tea</option>
 		<option value="hot">hot coffee</option>
 	</optgroup>
-	<optgroup lable="juice">
+	<optgroup label="juice">
 		
 		<option value="mango">mango juice</option>
 		<option value="orange">orange juice</option>

@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Css example</title>
+</head>
+
+<body>
+<h1 style="color:#9E402F; text-align:center;">Ordered and unordered list</h1>
+<ul>
+	<li>Apple</li>
+	<li>Grapes</li>
+	<li>Banana</li>
+	<li>Licthi</li>
+</ul>
+<div style="color:cyan; font-size:34px; font-family:arial,tahoma, times; font-weight:bold; font-style:italic;">anil</div>
+<div style="color:blue; font-size:36px; font-weight:bold; font-style:italic;">Enter your name</div>
+<div><input type="text"/></div>
+<mark>This is only highlighter</mark>
+<span>sunil</span>
+</body>
+
+</html>

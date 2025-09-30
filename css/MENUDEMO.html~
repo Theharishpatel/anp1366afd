@@ -1,0 +1,67 @@
+<html>
+<head>
+<title> display-inline-block-menu-demo</title>
+<style>
+*{
+margin:0;
+}
+.container{
+width:1200px;
+margin: 0 auto;
+height: auto;
+min-height: 600px;
+background-color: #cdecec;
+}
+
+.menu{
+width:1100px;
+margin: 0 auto;
+/* background-color: yelloq; */
+
+}
+
+.menu ul li{
+display:inline-block;
+height:35px;
+margin-right: 50px;
+margin-top:10px;
+
+}
+
+.menu ul li a{
+width: red;
+text-decoration:none;
+font-weight:bold;
+
+}
+
+.menu ul li a img{
+width:50px;
+height:35px;
+}
+
+
+</style>
+</head>
+
+<body>
+<div class="container">
+	<div class="menu">
+		<ul>
+			<li><a href=""><img src="" /></a></li>
+			<li>MEN</li>
+			<li>WOMEN</li>
+			<li>KIDS</li>
+			<li>ELECTRONICS</li>
+			<li>PERSONAL</li>
+		</ul>
+	</div>
+</div>
+<div class="displayblock f1">content1</div>
+<div class="displayblock f2">content2</div>
+<div class="displayblock f3">content3</div>
+
+
+</body>
+
+</html>
